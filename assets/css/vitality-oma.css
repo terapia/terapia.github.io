@@ -21,7 +21,7 @@ section {
 }
 .bg-dark {
   color: white;
-  background-color: #222222;
+  background-color: #FFDC9B;
 }
 @media (max-width: 767px) {
   section {

@@ -17,11 +17,11 @@ section {
   padding: 100px 0;
 }
 .bg-gray {
-  background-color: #f5f5f5;
+  background-color: #FFE4AE;
 }
 .bg-dark {
   color: white;
-  background-color: #FFDC9B;
+  background-color: #452E39;
 }
 @media (max-width: 767px) {
   section {

@@ -28,6 +28,19 @@ background: -webkit-linear-gradient(-45deg, #efdbd0 0%,#c8dfde 100%); /* Chrome1
 background: linear-gradient(135deg, #efdbd0 0%,#c8dfde 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efdbd0', endColorstr='#c8dfde',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
+.bg-vino {
+  color: black;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c8dfde+0,efdbd0+98 */
+background: #c8dfde; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #c8dfde 0%, #efdbd0 98%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  #c8dfde 0%,#efdbd0 98%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  #c8dfde 0%,#efdbd0 98%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c8dfde', endColorstr='#efdbd0',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+
+
 @media (max-width: 767px) {
   section {
     padding: 75px 0;

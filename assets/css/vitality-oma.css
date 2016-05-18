@@ -20,7 +20,7 @@ section {
 background: #efdbd0;
 }
 .bg-dark {
-  color: #c8dfde;
+  color: black;
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#efdbd0+0,c8dfde+100 */
 background: #efdbd0; /* Old browsers */
 background: -moz-linear-gradient(-45deg, #efdbd0 0%, #c8dfde 100%); /* FF3.6-15 */

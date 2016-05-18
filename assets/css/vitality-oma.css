@@ -65,8 +65,8 @@ input.form-control:focus {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #ff6773;
-  border-color: #ff6773;
+  background-color: #100352;
+  border-color: #100352;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;

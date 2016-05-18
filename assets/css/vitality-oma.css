@@ -182,7 +182,7 @@ hr.colored {
   border-radius: 0;
 }
 .navbar-default {
-  background-color: #ef4035;
+  background-color: #000000;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
@@ -196,7 +196,7 @@ hr.colored {
   border-color: rgba(255, 255, 255, 0.5);
 }
 .navbar-inverse {
-  background-color: #222222;
+  background-color: #2e1728;
 }
 .navbar-default,
 .navbar-inverse {

@@ -78,8 +78,8 @@ input.form-control:focus {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: #ffffff;
-  background-color: #ed2a1d;
-  border-color: #ec2114;
+  background-color: #36b9c3;
+  border-color: #36b9c3;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -377,7 +377,6 @@ header .scroll-down .btn:hover {
   }
 }
 header.video .overlay {
-  color:#efdbd0;
   position: absolute;
   height: 100%;
   width: 100%;
@@ -1079,7 +1078,7 @@ footer.footer .copyright p.small {
 .btn-full-width {
   border: 0;
   border-radius: 0;
-  background-color: #2e1728;
+  background-color: #100352;
   color: white;
   padding: 50px 0;
   font-size: 26px;
@@ -1088,7 +1087,7 @@ footer.footer .copyright p.small {
   text-transform: none;
 }
 .btn-full-width:hover {
-  background-color: #ef4035;
+  background-color: #36b9c3;
   color: white;
 }
 .btn-full-width:focus {

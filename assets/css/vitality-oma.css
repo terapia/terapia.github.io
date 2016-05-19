@@ -377,6 +377,7 @@ header .scroll-down .btn:hover {
   }
 }
 header.video .overlay {
+  color:#efdbd0;
   position: absolute;
   height: 100%;
   width: 100%;

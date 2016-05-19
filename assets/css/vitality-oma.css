@@ -36,8 +36,36 @@ background: -moz-linear-gradient(-45deg,  #c8dfde 0%, #efdbd0 98%); /* FF3.6-15 
 background: -webkit-linear-gradient(-45deg,  #c8dfde 0%,#efdbd0 98%); /* Chrome10-25,Safari5.1-6 */
 background: linear-gradient(135deg,  #c8dfde 0%,#efdbd0 98%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c8dfde', endColorstr='#efdbd0',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
 }
+
+.vimeoBadge {
+  margin: 0; padding: 0; font: normal 11px verdana,sans-serif; }
+.vimeoBadge img {
+  border: 0; }
+.vimeoBadge a, .vimeoBadge a:link, .vimeoBadge a:visited, .vimeoBadge a:active {
+  color: #3A75C4; text-decoration: none; cursor: pointer; }
+.vimeoBadge a:hover {
+  color:#00CCFF; }
+.vimeoBadge #vimeo_badge_logo {
+  margin-top:10px; width: 57px; height: 16px; }
+.vimeoBadge .credit {
+  font: normal 11px verdana,sans-serif; }
+.vimeoBadge .clip {
+  padding:0; float:left; margin:0 10px 10px 0; line-height:0; }
+.vimeoBadge.vertical .clip {
+  float: none; }
+.vimeoBadge .caption {
+  font: normal 11px verdana,sans-serif; overflow:hidden; width: auto; height: 30px; }
+.vimeoBadge .clear {
+  display: block; clear: both; visibility: hidden; }
+.vimeoBadge .s160 {
+  width: 160px; } 
+  .vimeoBadge .s80 {
+  width: 80px; } 
+.vimeoBadge .s100 {
+  width: 100px; }
+.vimeoBadge .s200 {
+  width: 200px; }
 
 
 

@@ -86,7 +86,7 @@ input.form-control:focus {
 }
 .btn,
 .input-group-btn {
-  border-radius: 0 !important;
+  border-radius: 10 !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
